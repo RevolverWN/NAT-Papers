@@ -1,8 +1,8 @@
 # Non-Autoregressive Neural Machine Translation papers category
 
 ## Mask-Predict and follow-ups:
-Mask-Predict: Parallel Decoding of Conditional Masked Language Models
-Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation
+* Mask-Predict: Parallel Decoding of Conditional Masked Language Models
+* Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation
 Non-autoregressive Machine Translation with Disentangled Context Transformer
 Infusing Sequential Information into Conditional Masked Translation Model with Self-Review Mechanism
 Semi-Autoregressive Training Improves Mask-Predict Decoding
