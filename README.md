@@ -28,7 +28,7 @@
 * Non-Autoregressive Translation by Learning Target Categorical Codes
 
 
-## construct decoder input
+## Construct decoder input
 * Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input
 * ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation
 
